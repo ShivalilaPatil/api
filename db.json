@@ -1,0 +1,26 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "shivani patil",
+      "email": "shivalilapatil66@gmail.com",
+      "address": "mangalawar peth, kop"
+    },
+    {
+      "id": 2,
+      "name": "shiva patil",
+      "email": "shivapatil66@gmail.com",
+      "address": "mangalawar peth, kop"
+    },
+    {
+      "id": 3
+    }
+  ]
+}
